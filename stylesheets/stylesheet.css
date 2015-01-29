@@ -261,3 +261,20 @@ nav#menu {
 	float: left;
 	margin-top: 35px;
 }
+
+/* specyficzne */
+.czesciowka {
+	background-color: #CCFF99;
+}
+
+.dograna {
+	background-color: #FFCC66;
+}
+
+.szlemik {
+	background-color: #FFAA70;
+}
+
+.szlem {
+	background-color: #FF8533;
+}
