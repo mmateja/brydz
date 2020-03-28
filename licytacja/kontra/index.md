@@ -1,0 +1,45 @@
+---
+title: Kontra
+layout: default
+---
+
+# Kontra
+
+Odzywkę **Kontra** w licytacji dzielimy na trzy rodzaje. Kontrę qywoławczą, kontrę karną i kontrę objaśniającą.
+
+
+## Kontra Wywoławcza
+
+Kontra wywoławcza zastępuje otwarcie **1T**: 
+
+* 12-14 PC  
+* brak koloru 5-kartowego
+ 
+	
+	
+Wyróżniamy 2 sytuacje kontrujące:
+  * Kontra na kolor starszy
+	* Minimum 4 karty w kolorze starszym innym niż kontrowany
+	* Kontrowany kolor powinine być naszym najkrótszym
+  
+  * Kontra na kolor młodszy 
+	* Minimum 3 karty w kolorach starszych
+
+**UWAGA!**
+Na kontrę wywoławczą nie możemy spasować.
+Partner kontrującego licytuje swój najdłżuszy kolor ( lub bez atu ) zgodnie z zasadami bilansu.
+
+**Przykłady**
+* Kontrując **1P** musimy posiadać:
+  * 12+ punktów
+  * 4C (dokładnie)
+  * 2-4T
+  * 2-4K
+  * Jak najmniej pików
+  
+
+## Kontra Karna
+
+Kontra karna oznacza nie zrealizowanie kontraktu przez przeciwnika. Kontrujemy ponieważ uważamy, że przeciwnik nie wygra swojego kontraktu
+
+Kontra karna występuje w dalszej fazie licytacji. 
