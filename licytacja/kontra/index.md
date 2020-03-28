@@ -20,7 +20,7 @@ Kontra wywoławcza zastępuje otwarcie **1T**:
 Wyróżniamy 2 sytuacje kontrujące:
   * Kontra na kolor starszy
 	* Minimum 4 karty w kolorze starszym innym niż kontrowany
-	* Kontrowany kolor powinine być naszym najkrótszym
+	* Kontrowany kolor powininen być naszym najkrótszym
   
   * Kontra na kolor młodszy 
 	* Minimum 3 karty w kolorach starszych
