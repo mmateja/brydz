@@ -21,7 +21,7 @@ Konwencją *Blackwood* pytamy o ilość asów przy uzgodnionej grze w kolorze st
 	*	**5P** - 2 asy z damą atu
  
 *	**Licytacja po interwencji**
-	Gdy po zalicytowaniu **4BA** przeciwnik interweniuje, licytujemy nastepująco:
+	Gdy po zalicytowaniu **4BA** przeciwnik interweniuje, licytujemy następująco:
 
 	*	**Pas** - 0 asów
 	*	**Kontra** - 1 as
