@@ -23,7 +23,7 @@ Wyróżniamy 2 sytuacje kontrujące:
 	* Kontrowany kolor powininen być naszym najkrótszym
   
   * Kontra na kolor młodszy 
-	* Minimum 3 karty w kolorach starszych
+	* Minimum po 3 karty w obu kolorach starszych
 
 **UWAGA!**
 Na kontrę wywoławczą nie możemy spasować.
