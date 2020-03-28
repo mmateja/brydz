@@ -27,7 +27,7 @@ Wyróżniamy 2 sytuacje kontrujące:
 
 **UWAGA!**
 Na kontrę wywoławczą nie możemy spasować.
-Partner kontrującego licytuje swój najdłżuszy kolor ( lub bez atu ) zgodnie z zasadami bilansu.
+Partner kontrującego licytuje swój najdłuższy kolor ( lub bez atu ) zgodnie z zasadami bilansu.
 
 **Przykłady**
 * Kontrując **1P** musimy posiadać:
