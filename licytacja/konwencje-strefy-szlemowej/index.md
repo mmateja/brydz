@@ -34,7 +34,7 @@ Konwencja Gerber służy wylicytowaniu gry szlemowej lub szlemikowej w kolorze m
 
 *	**4T** -  *pytanie o Asy*  
 	Odpowiedzi:
-	*	**4k** - 0 lub 3 asy
+	*	**4K** - 0 lub 3 asy
 	*	**4C** - 1 lub 4 asy
 	*	**4P** - 2 asy i 0 króli atu
 	*	**4BA** - 2 asy i 1 król atu
