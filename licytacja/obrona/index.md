@@ -26,11 +26,3 @@ Dział ten opisuje reguły gry obronnej i zasady wistowania.
 
   * Mała karta sugeruje wist w młodszy kolor
   * Duża karta prosi o starszy kolor z pozostałych 
-
-Wyróżniamy 2 sytuacje kontrujące:
-  * Kontra na kolor starszy
-	* Minimum 4 karty w kolorze starszym innym niż kontrowany
-	* Kontrowany kolor powinine być naszym najkrótszym
-  
-  * Kontra na kolor młodszy 
-	* Minimum 3 karty w kolorach starszych
