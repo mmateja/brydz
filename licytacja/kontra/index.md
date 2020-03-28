@@ -5,7 +5,7 @@ layout: default
 
 # Kontra
 
-Odzywkę **Kontra** w licytacji dzielimy na trzy rodzaje. Kontrę qywoławczą, kontrę karną i kontrę objaśniającą.
+Odzywkę **Kontra** w licytacji dzielimy na trzy rodzaje. Kontrę wywoławczą, kontrę karną i kontrę objaśniającą.
 
 
 ## Kontra Wywoławcza
