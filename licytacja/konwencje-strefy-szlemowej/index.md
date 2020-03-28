@@ -5,7 +5,7 @@ layout: default
 
 # Konwencje strefy szlemowej
 
-Konwencje sterfy szlemowej pozwalają uzyskać dokładne informację przy grze szlemowej czy szlemikowej.
+Konwencje sterfy szlemowej pozwalają ustalić, czy w połączonych rękach jest bilans na grę w szlema lub szlemika.
 
 
 ## Blackwood
