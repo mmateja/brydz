@@ -20,14 +20,14 @@ Kontra wywoławcza zastępuje otwarcie **1T**:
 Wyróżniamy 2 sytuacje kontrujące:
   * Kontra na kolor starszy
 	* Minimum 4 karty w kolorze starszym innym niż kontrowany
-	* Kontrowany kolor powinine być naszym najkrótszym
+	* Kontrowany kolor powininen być naszym najkrótszym
   
   * Kontra na kolor młodszy 
-	* Minimum 3 karty w kolorach starszych
+	* Minimum po 3 karty w obu kolorach starszych
 
 **UWAGA!**
 Na kontrę wywoławczą nie możemy spasować.
-Partner kontrującego licytuje swój najdłżuszy kolor ( lub bez atu ) zgodnie z zasadami bilansu.
+Partner kontrującego licytuje swój najdłuższy kolor ( lub bez atu ) zgodnie z zasadami bilansu.
 
 **Przykłady**
 * Kontrując **1P** musimy posiadać:
@@ -40,6 +40,6 @@ Partner kontrującego licytuje swój najdłżuszy kolor ( lub bez atu ) zgodnie 
 
 ## Kontra Karna
 
-Kontra karna oznacza nie zrealizowanie kontraktu przez przeciwnika. Kontrujemy ponieważ uważamy, że przeciwnik nie wygra swojego kontraktu
+Kontrujemy ponieważ uważamy, że przeciwnik nie zrealizuje swojego kontraktu.
 
 Kontra karna występuje w dalszej fazie licytacji. 

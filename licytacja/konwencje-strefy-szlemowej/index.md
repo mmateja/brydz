@@ -10,9 +10,9 @@ Konwencje sterfy szlemowej pozwalają uzyskać dokładne informację przy grze s
 
 ## Blackwood
 
-Konwencją *Blackwood* pytamy o asy przy uzgodnionej grze w kolorze starszym. Odzywką uruchamiającą jest **4BA**.
+Konwencją *Blackwood* pytamy o ilość asów przy uzgodnionej grze w kolorze starszym. Odzywką uruchamiającą jest **4BA**.
 
-*	**4BA** - *pytanie o Asy*
+*	**4BA** - *pytanie o asy*
 	Odpowiedzi:
 
 	*	**5T** - 0 lub 3 asy
@@ -21,7 +21,7 @@ Konwencją *Blackwood* pytamy o asy przy uzgodnionej grze w kolorze starszym. Od
 	*	**5P** - 2 asy z damą atu
  
 *	**Licytacja po interwencji**
-	Gdy po zalicytowaniu **4BA** przeciwnik interweniuje, licytujemy nastepująco:
+	Gdy po zalicytowaniu **4BA** przeciwnik interweniuje, licytujemy następująco:
 
 	*	**Pas** - 0 asów
 	*	**Kontra** - 1 as
