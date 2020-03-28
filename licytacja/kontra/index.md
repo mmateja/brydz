@@ -40,6 +40,6 @@ Partner kontrującego licytuje swój najdłuższy kolor ( lub bez atu ) zgodnie 
 
 ## Kontra Karna
 
-Kontra karna oznacza nie zrealizowanie kontraktu przez przeciwnika. Kontrujemy ponieważ uważamy, że przeciwnik nie wygra swojego kontraktu
+Kontrujemy ponieważ uważamy, że przeciwnik nie zrealizuje swojego kontraktu.
 
 Kontra karna występuje w dalszej fazie licytacji. 
