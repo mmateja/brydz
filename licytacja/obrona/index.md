@@ -17,7 +17,7 @@ Dział ten opisuje reguły gry obronnej i zasady wistowania.
     * Trzy kartowy kolor - niższą blotką
     * Cztero w i więcej kartowy kolor - czwartą najlepszą
 	
-* Do figur partner dokładamy blotki
+* Do figur partnera dokładamy blotki
   * Mała zachęcająca
   * Duża zniechęcająca 
   
