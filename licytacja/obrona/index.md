@@ -22,7 +22,7 @@ Dział ten opisuje reguły gry obronnej i zasady wistowania.
   * Duża zniechęcająca 
   
 ## Sygnał Lavinthala (zrzutka krakowska)
-  Podczas braku koloru do dorzucenie informuje partnera o swoich preferencjach:
+  Pierwsza zrzutka obrońcy nie do koloru, wskazuje kolor, w którym dokładający posiada wartości:
 
   * Mała karta sugeruje wist w młodszy kolor
   * Duża karta prosi o starszy kolor z pozostałych 
