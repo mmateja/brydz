@@ -10,7 +10,7 @@ Konwencje sterfy szlemowej pozwalają uzyskać dokładne informację przy grze s
 
 ## Blackwood
 
-Konwencją *Blackwood* pytamy o asy przy uzgodnionej grze w kolorze starszym. Odzywką uruchamiającą jest **4BA**.
+Konwencją *Blackwood* pytamy o ilość asów przy uzgodnionej grze w kolorze starszym. Odzywką uruchamiającą jest **4BA**.
 
 *	**4BA** - *pytanie o Asy*
 	Odpowiedzi:
