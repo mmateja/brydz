@@ -36,7 +36,7 @@ layout: default
 
 ## Otwarcia na poziomie 2
 
-*	**2T**  
+*	**2T** - *Magazyn GSu*  
 	24+ PC  
 	układ dowolny
 
