@@ -53,4 +53,4 @@ Splinter, konwencja strefy szlemowej wyskorzystująca podwójny przeskok w licyt
 *	**1K** - **1C** - **4T** (znalazłem taki przykład ale trzeba sie zastanowic nad tym)
 	11+ PC, 4C, 1(0)T
 * **1T** - **1C** - **1P** - **4K** (tutaj tak samo)
-	11+ PC, 4C, 1(0)P
+	11+ PC, 4P, 1(0)K
