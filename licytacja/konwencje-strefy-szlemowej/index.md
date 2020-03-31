@@ -43,14 +43,14 @@ Konwencja Gerber służy wylicytowaniu gry szlemowej lub szlemikowej w kolorze m
 
 Splinter, konwencja strefy szlemowej wyskorzystująca podwójny przeskok w licytacji w celu pokazania singletona (lub mizerke) w licytowanym kolorze i fit w kolorze partnera. Konwencja używana wyłącznie na kolorach starszych:
 *	4 kartowy fit
-*	11+ PC
+*	13+ PC
 *	maksymalnie singleton w innym kolorze
 
 **Przykłady:**
 
 *	**1C** -  **3P**  
-	11+ PC, 4C, 1(0)P
+	13+ PC, 4C, 1(0)P
 *	**1K** - **1C** - **4T** (znalazłem taki przykład ale trzeba sie zastanowic nad tym)
-	11+ PC, 4C, 1(0)T
+	13+ PC, 4C, 1(0)T
 * **1T** - **1C** - **1P** - **4K** (tutaj tak samo)
-	11+ PC, 4P, 1(0)K
+	13+ PC, 4P, 1(0)K
