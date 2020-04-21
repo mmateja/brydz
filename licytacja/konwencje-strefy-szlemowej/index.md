@@ -38,3 +38,17 @@ Konwencja Gerber służy wylicytowaniu gry szlemowej lub szlemikowej w kolorze m
 	*	**4C** - 1 lub 4 asy
 	*	**4P** - 2 asy i 0 króli atu
 	*	**4BA** - 2 asy i 1 król atu
+
+## Splinter
+
+Zestaw odpowiedzi na otwarcia w kolory starsze, pokazujących krótkość w licytowanym kolorze i aspiracje szlemikowe.
+*	4 kartowy fit
+*	13+ PC
+*	krótkość w licytowanym kolorze (singleton lub renons)
+
+**Przykłady:**
+
+*	**1C** -  **3P**  
+	13+ PC, 4C, 1(0)P
+* 	**1T** - **1C** - **1P** - **4K**
+	13+ PC, 4P, 1(0)K
